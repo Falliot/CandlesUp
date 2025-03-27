@@ -1,0 +1,19 @@
+{
+    "features": [
+        {
+            "title": "Dark Mode",
+            "description": "Support for system-wide dark mode.",
+            "status": "planned"
+        },
+        {
+            "title": "New Widgets",
+            "description": "More widgets for iOS home screen.",
+            "status": "in_progress"
+        },
+        {
+            "title": "Bug Fixes",
+            "description": "Improved app performance and stability.",
+            "status": "completed"
+        }
+    ]
+}
