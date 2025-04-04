@@ -628,5 +628,11 @@
       {"language": "ja", "value": "クイックアクセスのためのホーム画面ウィジェット"},
       {"language": "ko", "value": "빠른 접근을 위한 홈 화면 위젯"}
     ]
+  },
+   {
+    "id": "14",
+    "title": "import iOS calendar birthday",
+    "status": "planned",
+    "description": "For people who don’t have a dedicated contact",
   }
 ]
