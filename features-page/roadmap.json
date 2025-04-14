@@ -10,6 +10,7 @@
     "title": "Gift reminder",
     "status": "finished",
     "description": "Reminders for gifts",
+    "isFinished": true
   },
   {
     "id": "2",
@@ -22,6 +23,7 @@
     "title": "Custom notification schedules",
     "status": "finished",
     "description": "Set up custom notification schedules",
+    "isFinished": true
   },
   {
     "id": "4",
