@@ -120,11 +120,5 @@
    "title": "Wish list feature",
    "status": "planned",
    "description": "Create a wishlist and share it with your friends",
-  },
-  {
-   "id": "20",
-   "title": "Import from Facebook Friends list",
-   "status": "planned",
-   "description": "Ability to import FB friends birthdays",
   }
 ]
