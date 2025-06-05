@@ -15,8 +15,9 @@
   {
     "id": "2",
     "title": "Image support",
-    "status": "planned",
+    "status": "finished",
     "description": "Support for adding images",
+    "isFinished": true
   },
   {
     "id": "3",
@@ -52,14 +53,16 @@
   {
     "id": "8",
     "title": "Export Bdays to json or CSV", 
-    "status": "planned",
+    "status": "finished",
     "description": "Export birthday data as JSON or CSV",
+    "isFinished": true
   },
   {
     "id": "9",
     "title": "Save as pdf/print",
-    "status": "planned",
+    "status": "finished",
     "description": "Save birthday lists as PDF or print them",
+    "isFinished": true
   },
   {
     "id": "10",
@@ -88,8 +91,9 @@
    {
     "id": "14",
     "title": "import iOS calendar birthday",
-    "status": "planned",
+    "status": "finished",
     "description": "For people who don’t have a dedicated contact",
+    "isFinished": true
   },
    {
     "id": "15",
