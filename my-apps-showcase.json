@@ -1,0 +1,35 @@
+{
+  "apps": [
+    {
+      "id": "throne-time",
+      "name": "Throne Time: Salary Calculator",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/throne-time.png",
+      "appStoreURL": "https://apps.apple.com/us/app/throne-time-salary-calculator/id6755554378"
+    },
+    {
+      "id": "halal-scanner",
+      "name": "Halal Scanner: Food Scan Halzy",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/halal-scanner.png",
+      "appStoreURL": "https://apps.apple.com/us/app/halal-scanner-food-scan-halzy/id6747511131"
+    },
+    {
+      "id": "dog-breed-identifier",
+      "name": "Dog Breed Identifier: Ayk",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/dog-breed.png",
+      "appStoreURL": "https://apps.apple.com/us/app/dog-breed-identifier-ayk/id6749140111"
+    },
+    {
+      "id": "cat-breed-identifier",
+      "name": "Cat Breed Identifier: Kityko",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/cat-breed.png",
+      "appStoreURL": "https://apps.apple.com/us/app/cat-breed-identifier-kityko/id6749322948"
+    },
+    {
+      "id": "rock-identifier",
+      "name": "Rock Identifier: Gem Scanner",
+      "iconURL": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icons/rock-identifier.png",
+      "appStoreURL": "https://apps.apple.com/us/app/rock-identifier-gem-scanner/id6751424923"
+    }
+  ],
+  "lastUpdated": "2025-12-10"
+}
