@@ -47,8 +47,9 @@
   {
     "id": "7",
     "title": "App Themes",
-    "status": "planned",
+    "status": "finished",
     "description": "Customize the app with themes",
+    "isFinished": true
   },
   {
     "id": "8",
@@ -111,8 +112,9 @@
   {
    "id": "17",
    "title": "Digital candle",
-   "status": "planned",
+   "status": "finished",
    "description": "Missing a bday candle? Open the app and blow a virtual one",
+   "isFinished": true
   },
   {
    "id": "18",
