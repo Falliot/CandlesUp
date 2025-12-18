@@ -6,6 +6,66 @@
     "description": "Templates for birthday wishes",
   },
   {
+    "id": "4",
+    "title": "Groups support",
+    "status": "planned",
+    "description": "Create and manage groups",
+  },
+  {
+    "id": "5",
+    "title": "Social Sharing",
+    "status": "planned",
+    "description": "Share birthdays on social platforms",
+  },
+  {
+    "id": "6",
+    "title": "MacOS app could be added",
+    "status": "planned",
+    "description": "Potential MacOS app support",
+  },
+  {
+    "id": "10",
+    "title": "GiftCards",
+    "status": "planned",
+    "description": "Integration of gift cards",
+  },
+  {
+    "id": "11",
+    "title": "Find Flowers Shop",
+    "status": "planned",
+    "description": "Locate nearby flower shops",
+  },
+  {
+    "id": "12",
+    "title": "Apple Watch App",
+    "status": "planned",
+    "description": "Apple Watch companion app",
+  },
+   {
+    "id": "15",
+    "title": "Highlight your birthday in the calendar",
+    "status": "planned",
+    "description": "See your birthday in calendar",
+  },
+  {
+   "id": "16",
+   "title": "Sync with iCloud",
+   "status": "planned",
+   "description": "Synch your birthdays with iCloud",
+  },
+  {
+   "id": "18",
+   "title": "Famous Birthdays",
+   "status": "planned",
+   "description": "Find out who share birthday with you",
+  },
+  {
+   "id": "19",
+   "title": "Wish list feature",
+   "status": "planned",
+   "description": "Create a wishlist and share it with your friends",
+  },
+    {
     "id": "1",
     "title": "Gift reminder",
     "status": "finished",
@@ -25,24 +85,6 @@
     "status": "finished",
     "description": "Set up custom notification schedules",
     "isFinished": true
-  },
-  {
-    "id": "4",
-    "title": "Groups support",
-    "status": "planned",
-    "description": "Create and manage groups",
-  },
-  {
-    "id": "5",
-    "title": "Social Sharing",
-    "status": "planned",
-    "description": "Share birthdays on social platforms",
-  },
-  {
-    "id": "6",
-    "title": "MacOS app could be added",
-    "status": "planned",
-    "description": "Potential MacOS app support",
   },
   {
     "id": "7",
@@ -66,24 +108,6 @@
     "isFinished": true
   },
   {
-    "id": "10",
-    "title": "GiftCards",
-    "status": "planned",
-    "description": "Integration of gift cards",
-  },
-  {
-    "id": "11",
-    "title": "Find Flowers Shop",
-    "status": "planned",
-    "description": "Locate nearby flower shops",
-  },
-  {
-    "id": "12",
-    "title": "Apple Watch App",
-    "status": "planned",
-    "description": "Apple Watch companion app",
-  },
-  {
     "id": "13",
     "title": "Widgets",
     "status": "finished",
@@ -97,18 +121,6 @@
     "description": "For people who don’t have a dedicated contact",
     "isFinished": true
   },
-   {
-    "id": "15",
-    "title": "Highlight your birthday in the calendar",
-    "status": "planned",
-    "description": "See your birthday in calendar",
-  },
-  {
-   "id": "16",
-   "title": "Sync with iCloud",
-   "status": "planned",
-   "description": "Synch your birthdays with iCloud",
-  },
   {
    "id": "17",
    "title": "Digital candle",
@@ -116,16 +128,4 @@
    "description": "Missing a bday candle? Open the app and blow a virtual one",
    "isFinished": true
   },
-  {
-   "id": "18",
-   "title": "Famous Birthdays",
-   "status": "planned",
-   "description": "Find out who share birthday with you",
-  },
-  {
-   "id": "19",
-   "title": "Wish list feature",
-   "status": "planned",
-   "description": "Create a wishlist and share it with your friends",
-  }
 ]
