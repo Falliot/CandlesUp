@@ -6,132 +6,132 @@
     "description": "Templates for birthday wishes",
   },
   {
-    "id": "1",
+    "id": "4",
     "title": "Groups support",
     "status": "planned",
     "description": "Create and manage groups",
   },
   {
-    "id": "2",
+    "id": "5",
     "title": "Social Sharing",
     "status": "planned",
     "description": "Share birthdays on social platforms",
   },
   {
-    "id": "3",
+    "id": "6",
     "title": "MacOS app could be added",
     "status": "planned",
     "description": "Potential MacOS app support",
   },
   {
-    "id": "4",
+    "id": "10",
     "title": "GiftCards",
     "status": "planned",
     "description": "Integration of gift cards",
   },
   {
-    "id": "5",
+    "id": "11",
     "title": "Find Flowers Shop",
     "status": "planned",
     "description": "Locate nearby flower shops",
   },
   {
-    "id": "6",
+    "id": "12",
     "title": "Apple Watch App",
     "status": "planned",
     "description": "Apple Watch companion app",
   },
    {
-    "id": "7",
+    "id": "15",
     "title": "Highlight your birthday in the calendar",
     "status": "planned",
     "description": "See your birthday in calendar",
   },
   {
-   "id": "8",
+   "id": "16",
    "title": "Sync with iCloud",
    "status": "planned",
    "description": "Synch your birthdays with iCloud",
   },
   {
-   "id": "9",
+   "id": "18",
    "title": "Famous Birthdays",
    "status": "planned",
    "description": "Find out who share birthday with you",
   },
   {
-   "id": "10",
+   "id": "19",
    "title": "Wish list feature",
    "status": "planned",
    "description": "Create a wishlist and share it with your friends",
   },
-  {
-   "id": "11",
-   "title": "Chinese lunar calendar",
-   "status": "planned",
-   "description": "Support of chinese lunar calendar",
-  },
     {
-    "id": "12",
+    "id": "1",
     "title": "Gift reminder",
     "status": "finished",
     "description": "Reminders for gifts",
     "isFinished": true
   },
   {
-    "id": "13",
+    "id": "2",
     "title": "Image support",
     "status": "finished",
     "description": "Support for adding images",
     "isFinished": true
   },
   {
-    "id": "14",
+    "id": "3",
     "title": "Custom notification schedules",
     "status": "finished",
     "description": "Set up custom notification schedules",
     "isFinished": true
   },
   {
-    "id": "15",
+    "id": "7",
     "title": "App Themes",
     "status": "finished",
     "description": "Customize the app with themes",
     "isFinished": true
   },
   {
-    "id": "16",
+    "id": "8",
     "title": "Export Bdays to json or CSV", 
     "status": "finished",
     "description": "Export birthday data as JSON or CSV",
     "isFinished": true
   },
   {
-    "id": "17",
+    "id": "9",
     "title": "Save as pdf/print",
     "status": "finished",
     "description": "Save birthday lists as PDF or print them",
     "isFinished": true
   },
   {
-    "id": "18",
+    "id": "13",
     "title": "Widgets",
     "status": "finished",
     "description": "Home screen widgets for quick access",
     "isFinished": true
   },
    {
-    "id": "19",
+    "id": "14",
     "title": "import iOS calendar birthday",
     "status": "finished",
     "description": "For people who don’t have a dedicated contact",
     "isFinished": true
   },
   {
-   "id": "20",
+   "id": "17",
    "title": "Digital candle",
    "status": "finished",
    "description": "Missing a bday candle? Open the app and blow a virtual one",
    "isFinished": true
+  },
+    {
+   "id": "20",
+   "title": "Chinese lunar calendar",
+   "status": "planned",
+   "description": "Support of chinese lunar calendar",
   },
 ]
