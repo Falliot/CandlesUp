@@ -1,6 +1,12 @@
 {
   "apps": [
     {
+      "id": "candlesUp",
+      "name": "Birthday Countdown: CandlesUp",
+      "iconURL": "https://raw.githubusercontent.com/Falliot/CandlesUp/main/appIcons/birthdayCountdown.png",
+      "appStoreURL": "https://apps.apple.com/us/app/birthday-countdown-candlesup/id6744033985"
+    },
+    {
       "id": "throne-time",
       "name": "Throne Time: Salary Calculator",
       "iconURL": "https://raw.githubusercontent.com/Falliot/CandlesUp/main/appIcons/poopSalary.png",
