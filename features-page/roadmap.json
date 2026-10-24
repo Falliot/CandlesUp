@@ -51,14 +51,16 @@
   {
    "id": "16",
    "title": "Sync with iCloud",
-   "status": "planned",
+   "status": "finished",
    "description": "Synch your birthdays with iCloud",
+    "isFinished": true
   },
   {
    "id": "18",
    "title": "Famous Birthdays",
-   "status": "planned",
+   "status": "finished",
    "description": "Find out who share birthday with you",
+    "isFinished": true
   },
   {
    "id": "19",
