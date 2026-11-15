@@ -7,6 +7,12 @@
       "appStoreURL": "https://apps.apple.com/us/app/birthday-countdown-candlesup/id6744033985"
     },
     {
+      "id": "imposter",
+      "name": "Imposter Game: Fakeout Party",
+      "iconURL": "https://raw.githubusercontent.com/Falliot/CandlesUp/main/appIcons/imposterGame.png",
+      "appStoreURL": "https://apps.apple.com/us/app/imposter-game-fakeout-party/id6761190861"
+    },
+    {
       "id": "throne-time",
       "name": "Throne Time: Salary Calculator",
       "iconURL": "https://raw.githubusercontent.com/Falliot/CandlesUp/main/appIcons/poopSalary.png",
@@ -37,5 +43,5 @@
       "appStoreURL": "https://apps.apple.com/us/app/rock-identifier-gem-scanner/id6751424923"
     }
   ],
-  "lastUpdated": "2025-12-10"
+  "lastUpdated": "2026-11-15"
 }
